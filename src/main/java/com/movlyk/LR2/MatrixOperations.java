@@ -1,4 +1,4 @@
-package com.movlyk;
+package com.movlyk.LR2;
 
 import java.util.Random;
 import java.util.Scanner;
