@@ -1,0 +1,97 @@
+{
+  "name": "Київський університет",
+  "rector": {
+    "firstName": "Іван",
+    "lastName": "Петров",
+    "middleName": "Михайлович",
+    "gender": "MALE"
+  },
+  "faculties": [
+    {
+      "name": "Факультет Комп\u0027ютерних Наук",
+      "groups": [
+        {
+          "name": "Група 101",
+          "students": [
+            {
+              "group": "Група 101",
+              "firstName": "Олег",
+              "lastName": "Іванов",
+              "middleName": "Степанович",
+              "gender": "MALE"
+            },
+            {
+              "group": "Група 101",
+              "firstName": "Марія",
+              "lastName": "Петренко",
+              "middleName": "Олександрівна",
+              "gender": "FEMALE"
+            }
+          ]
+        },
+        {
+          "name": "Група 102",
+          "students": [
+            {
+              "group": "Група 102",
+              "firstName": "Андрій",
+              "lastName": "Сидоренко",
+              "middleName": "Ігорович",
+              "gender": "MALE"
+            },
+            {
+              "group": "Група 102",
+              "firstName": "Олена",
+              "lastName": "Ковальчук",
+              "middleName": "Василівна",
+              "gender": "FEMALE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Факультет Математики",
+      "groups": [
+        {
+          "name": "Група 201",
+          "students": [
+            {
+              "group": "Група 201",
+              "firstName": "Володимир",
+              "lastName": "Шевченко",
+              "middleName": "Анатолійович",
+              "gender": "MALE"
+            },
+            {
+              "group": "Група 201",
+              "firstName": "Наталія",
+              "lastName": "Федоренко",
+              "middleName": "Петрівна",
+              "gender": "FEMALE"
+            }
+          ]
+        },
+        {
+          "name": "Група 202",
+          "students": [
+            {
+              "group": "Група 202",
+              "firstName": "Максим",
+              "lastName": "Дорошенко",
+              "middleName": "Сергійович",
+              "gender": "MALE"
+            },
+            {
+              "group": "Група 202",
+              "firstName": "Ірина",
+              "lastName": "Бондаренко",
+              "middleName": "Миколаївна",
+              "gender": "FEMALE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
